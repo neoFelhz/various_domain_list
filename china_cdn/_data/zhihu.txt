@@ -1,0 +1,5 @@
+pic1.zhimg.com
+pic2.zhimg.com
+pic3.zhimg.com
+pic4.zhimg.com
+static.zhimg.com

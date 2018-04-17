@@ -1,0 +1,10 @@
+s1.hdslb.com
+s2.hdslb.com
+s3.hdslb.com
+s4.hdslb.com
+i0.hdslb.com
+i1.hdslb.com
+i2.hdslb.com
+i3.hdslb.com
+i4.hdslb.com
+static.hdslb.com

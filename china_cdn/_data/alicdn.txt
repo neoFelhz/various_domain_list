@@ -1,0 +1,6 @@
+g.alicdn.com
+gw.alicdn.com
+img.alicdn.com
+tce.alicdn.com
+tbip.alicdn.com
+www.alicdn.com
